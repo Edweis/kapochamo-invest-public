@@ -71,3 +71,6 @@ Contribute and get early access to this **cryptocurrency investment fund** witho
 ## How ?
 Get the [performance.csv]() file and find an excellent extractor.
 You can start by filtering with _only strategy=highest_ and _extractor not equal to relatedAgainstBnb_.
+
+## Contact me
+Feel free to contact me at kapochamo[at]gmail.com
