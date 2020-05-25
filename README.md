@@ -50,7 +50,7 @@ You can find in this repository :
  - [performances.csv]() that if the cross product of 12 strategies and 3 extractors with its performance. Note that an extractor can yield several symbols, hence one strategy run with one extractor can return several performances.
  
  For instance the following lines says that if we ran the strategy `highest` with the extractor `onlyBnb` would have make a return on investment of 6.27%, **trading fee included**.
-| url         | strategy | symbol  | performace         | etractor |
+| url         | strategy | symbol  | performance         | extractor |
 |-------------|----------|---------|--------------------|----------|
 | [https://...](https://binance.zendesk.com/hc/en-us/articles/360041795572-Introducing-the-Cartesi-CTSI-Token-Sale-on-Binance-Launchpad) | highest  | BNBUSDT | 6.273632581267119  | onlyBnb  |
 
