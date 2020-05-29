@@ -11,7 +11,7 @@ Then, for each of these symbols (like [BTCUSDT](https://www.binance.com/en/trade
 We then listen to the price change, once a **strategy** asserts that it is the right moment to sell, we sell.
 
 Here is a sequence diagram of the process : 
-![Kapochamo Invest Diagram](https://www.plantuml.com/plantuml/img/bLJ1Rjim3BthAuYU6Y19xy6mTLs7eXYm5ck07WjPOX8XiXH8L5n_s_vXtpHATjtOImypOC0Y7_d8zmHVHvA1Kcq56R88F-J1gvsi_UBU7J4Io4I-beGQA4Xjt1PaK3j3g2W5549vHy5R-6PzqeqajGCPGJK27NTiuU8vnp30dzyNETDqHr7vvBGC3BWnJZg5uB291L9rWPSSEC7zv2FStXH8JhteQY1Pyspl75HEPoY-FjwF6EJ1226izmV08pAoDYuH2k17DR3u_3RkYgjQfy2uez_ZvQmW-bo6dOwyWhllQwXbs2DTIMj7s4-BnGHiMLpMkImxwTflkO9RZztEWA-6mLyAKjgk34m4oNOmLvi39JbfDUo1hwoE8eXjNNaROHDy_Kx-qG36HGmzssMvANF8phF-SqZ1pc6vNCw65fsYakz2HpCa9lqxeoRYTYMpKKrfcDXi2v6B2BSj7AKrEei73x-0J8q-4Q-d43NgKNL-EggH_kp-2fwnUlAAhO8jltjh7CQFYa-CBhMF3qzhg5BRRzbfkJ617IAZzl-qOOqQQMYw2Dltjejco7-nHxJsdCZeT15Dd0sWZGWRQMml52V50BZch_n3-0i0)
+![Kapochamo Invest Diagram](https://raw.githubusercontent.com/Edweis/kapochamo-invest-public/master/uml.png)
 
 ## Terminology
  - **news** : data constructed of:
