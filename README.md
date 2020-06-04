@@ -73,6 +73,8 @@ Get the [performance.csv]() file and find an excellent extractor.
 You can start by filtering with _only strategy=highest_ and _extractor not equal to relatedAgainstBnb_.
 
 I also developed a tool to see how one asset changes at a specific date : https://api.kapochamo.com/view
+For instance this screenshot represents the variation of `BNBUSDT` of this [news](https://binance.zendesk.com/hc/en-us/articles/360041795572-Introducing-the-Cartesi-CTSI-Token-Sale-on-Binance-Launchpad).
+![/view screenshot](https://raw.githubusercontent.com/Edweis/kapochamo-invest-public/master/Screenshot%202020-06-04%20at%209.30.54%20AM.png)
 
 ## Contact me
 Feel free to contact me at kapochamo[at]gmail.com
