@@ -72,5 +72,7 @@ Contribute and get early access to this **cryptocurrency investment fund** witho
 Get the [performance.csv]() file and find an excellent extractor.
 You can start by filtering with _only strategy=highest_ and _extractor not equal to relatedAgainstBnb_.
 
+I also developed a tool to see how one asset changes at a specific date : https://api.kapochamo.com/view
+
 ## Contact me
 Feel free to contact me at kapochamo[at]gmail.com
